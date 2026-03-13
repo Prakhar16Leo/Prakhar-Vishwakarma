@@ -1,2 +1,29 @@
 # Prakhar-Vishwakarma
 About Me
+
+# Hi, I'm Prakhar Vishwakarma
+
+I come from a pharmaceutical background, and I am currently pursuing an MBA in Healthcare and Data Science.
+
+I am transitioning into data analytics and building skills in:
+
+- SQL
+- Python
+- Excel
+- Power BI
+
+## Background
+
+Pharma Graduate  
+MBA (Healthcare & Data Science)
+
+## Projects
+
+- SQL Sales Data Analysis
+- Excel Business Dashboard
+- Power BI Insights Dashboard
+- Python Data Cleaning Project
+
+## Contact
+
+Email: prakharviswakarma16@gmail.com
